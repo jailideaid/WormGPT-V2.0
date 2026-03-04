@@ -335,8 +335,8 @@ This project is intended for:
 * Understanding CLI architecture
 * Experimenting with language enforcement
 * Building AI tools responsibly
-Use your API key securely.
-Do not share it publicly.
+
+Use your API key securely, do not share it publicly.
 
 ## Another notes!
 
