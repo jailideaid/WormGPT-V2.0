@@ -154,6 +154,8 @@ python mainAI/main.py
 
 When first running the program, it will ask for your OpenRouter API key.
 
+You can create an account on the openrouter.ai page and create a key.
+
 The key is stored locally at:
 
 ```
@@ -295,7 +297,7 @@ wormgpt-cli/
 │   ├── main.py
 │   ├── ai_client.py
 │   ├── config.json
-│   ├── .apikey
+│   ├── .apikey (automatically creates a file when the key is entered!)
 │   └── system-prompts/
 │       ├── en.txt
 │       └── id.txt
