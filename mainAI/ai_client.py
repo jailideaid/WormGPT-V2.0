@@ -58,10 +58,10 @@ def ask_ai(message: str, api_key: str, language: str, chat_history: list):
         {"role": "system", "content": system_prompt}
     ]
 
-    # tambahkan history lama
+    # add old history
     messages.extend(chat_history)
 
-    # tambahkan message terbaru
+    # add latest message
     messages.append({"role": "user", "content": enforced_message})
 
     payload = {
