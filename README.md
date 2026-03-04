@@ -344,6 +344,8 @@ Do not share it publicly.
 * You can use wormgpt wisely without having to do or violate anything. 
 * I am not responsible for that. Thank you for your support by favoriting this repository and following it.
 
+If you use https://openrouter.ai with a free key, if you are hit by a token limit, I suggest changing to another free model or upgrading your key by subscribing.
+
 ---
 
 Built for experimentation and CLI-based AI interaction.
