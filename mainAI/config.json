@@ -1,0 +1,7 @@
+{
+  "_comment": "================== CONFIG ==================",
+  "model": "z-ai/glm-4.5-air:free",
+  "base_url": "https://openrouter.ai/api/v1",
+  "site_url": "https://github.com/jailideaid/WormGPT-CLIV2.0",
+  "site_name": "WormGPT-CLI V2.0"
+}
