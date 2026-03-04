@@ -11,6 +11,12 @@ This project provides a clean terminal-based AI interaction system with:
 * Configurable model
 * Clean terminal UI
 
+
+
+https://github.com/user-attachments/assets/5d6b7c10-1981-4fdd-b981-2b45d5069da9
+
+
+
 ---
 
 ## 📦 Requirements
