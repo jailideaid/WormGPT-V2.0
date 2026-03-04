@@ -55,19 +55,19 @@ https://git-scm.com/
 
 ```bash
 git clone https://github.com/jailideaid/WormGPT-V2.0
-cd wormgpt-cli
+cd WormGPT-V2.0
 ```
 
 ### 3. Install Dependencies
 
 ```bash
-pip install requests
+pip install -r requirements.txt
 ```
 
 ### 4. Run
 
 ```bash
-python mainAI/main.py
+python main.py
 ```
 
 ---
@@ -85,19 +85,19 @@ sudo apt install git python3 python3-pip -y
 
 ```bash
 git clone https://github.com/jailideaid/WormGPT-V2.0
-cd wormgpt-cli
+cd WormGPT-V2.0
 ```
 
 ### 3. Install Python Dependency
 
 ```bash
-pip3 install requests
+pip3 install -r requirements.txt
 ```
 
 ### 4. Run
 
 ```bash
-python3 mainAI/main.py
+python main.py
 ```
 
 ---
@@ -119,19 +119,19 @@ brew install git python
 
 ```bash
 git clone https://github.com/jailideaid/WormGPT-V2.0
-cd wormgpt-cli
+cd WormGPT-V2.0
 ```
 
 ### 4. Install Dependency
 
 ```bash
-pip3 install requests
+pip3 install -r requirements.txt
 ```
 
 ### 5. Run
 
 ```bash
-python3 mainAI/main.py
+python3 main.py
 ```
 
 ---
@@ -147,15 +147,15 @@ From F-Droid (recommended).
 ```bash
 pkg update
 pkg install git python -y
-pip install requests
+pip install -r requirements.txt
 ```
 
 ### 3. Clone & Run
 
 ```bash
 git clone https://github.com/jailideaid/WormGPT-V2.0
-cd wormgpt-cli
-python mainAI/main.py
+cd WormGPT-V2.0
+python main.py
 ```
 
 ---
