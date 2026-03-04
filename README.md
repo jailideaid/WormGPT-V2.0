@@ -11,11 +11,21 @@ This project provides a clean terminal-based AI interaction system with:
 * Configurable model
 * Clean terminal UI
 
+## Preview WormGPT CLI V2.0
+<p align="center">
+  <img width="773" height="628" alt="Screenshot 1"
+       src="https://github.com/user-attachments/assets/4fb2dd51-3716-40bd-b090-d48abc5b165b" />
+</p>
 
+<p align="center">
+  <img width="773" height="628" alt="Screenshot 2"
+       src="https://github.com/user-attachments/assets/8e4105f4-ed76-4190-a762-24b9b9a43565" />
+</p>
 
-https://github.com/user-attachments/assets/5d6b7c10-1981-4fdd-b981-2b45d5069da9
-
-
+<p align="center">
+  <img width="773" height="628" alt="Screenshot 3"
+       src="https://github.com/user-attachments/assets/699824dd-6a30-4aa9-b5be-d9e7d5c61414" />
+</p>
 
 ---
 
@@ -36,25 +46,25 @@ This project uses Git for installation across Windows, Linux, macOS, and Android
 
 ### 🖥 Windows (PowerShell or Windows Terminal)
 
-#### 1. Install Git (if not installed)
+### 1. Install Git (if not installed)
 
 Download from:
 https://git-scm.com/
 
-#### 2. Clone Repository
+### 2. Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME/wormgpt-cli.git
+git clone https://github.com/jailideaid/WormGPT-V2.0
 cd wormgpt-cli
 ```
 
-#### 3. Install Dependencies
+### 3. Install Dependencies
 
 ```bash
 pip install requests
 ```
 
-#### 4. Run
+### 4. Run
 
 ```bash
 python mainAI/main.py
@@ -64,27 +74,27 @@ python mainAI/main.py
 
 ### 🐧 Linux (Ubuntu/Debian/Kali)
 
-#### 1. Install Dependencies
+### 1. Install Dependencies
 
 ```bash
 sudo apt update
 sudo apt install git python3 python3-pip -y
 ```
 
-#### 2. Clone
+### 2. Clone
 
 ```bash
-git clone https://github.com/USERNAME/wormgpt-cli.git
+git clone https://github.com/jailideaid/WormGPT-V2.0
 cd wormgpt-cli
 ```
 
-#### 3. Install Python Dependency
+### 3. Install Python Dependency
 
 ```bash
 pip3 install requests
 ```
 
-#### 4. Run
+### 4. Run
 
 ```bash
 python3 mainAI/main.py
@@ -94,31 +104,31 @@ python3 mainAI/main.py
 
 ### 🍎 macOS
 
-#### 1. Install Homebrew (if needed)
+### 1. Install Homebrew (if needed)
 
 Download from:
 https://brew.sh/
 
-#### 2. Install Git & Python
+### 2. Install Git & Python
 
 ```bash
 brew install git python
 ```
 
-#### 3. Clone
+### 3. Clone
 
 ```bash
-git clone https://github.com/USERNAME/wormgpt-cli.git
+git clone https://github.com/jailideaid/WormGPT-V2.0
 cd wormgpt-cli
 ```
 
-#### 4. Install Dependency
+### 4. Install Dependency
 
 ```bash
 pip3 install requests
 ```
 
-#### 5. Run
+### 5. Run
 
 ```bash
 python3 mainAI/main.py
@@ -128,11 +138,11 @@ python3 mainAI/main.py
 
 ### 📱 Android (Termux)
 
-#### 1. Install Termux
+### 1. Install Termux
 
 From F-Droid (recommended).
 
-#### 2. Setup Environment
+### 2. Setup Environment
 
 ```bash
 pkg update
@@ -140,10 +150,10 @@ pkg install git python -y
 pip install requests
 ```
 
-#### 3. Clone & Run
+### 3. Clone & Run
 
 ```bash
-git clone https://github.com/USERNAME/wormgpt-cli.git
+git clone https://github.com/jailideaid/WormGPT-V2.0
 cd wormgpt-cli
 python mainAI/main.py
 ```
@@ -154,7 +164,7 @@ python mainAI/main.py
 
 When first running the program, it will ask for your OpenRouter API key.
 
-You can create an account on the openrouter.ai page and create a key.
+You can create an account on the https://openrouter.ai page and create a key.
 
 The key is stored locally at:
 
@@ -325,9 +335,14 @@ This project is intended for:
 * Understanding CLI architecture
 * Experimenting with language enforcement
 * Building AI tools responsibly
-
 Use your API key securely.
 Do not share it publicly.
+
+## Another notes!
+
+* don't misuse AI for personal gain to satisfy your crimes. 
+* You can use wormgpt wisely without having to do or violate anything. 
+* I am not responsible for that. Thank you for your support by favoriting this repository and following it.
 
 ---
 
