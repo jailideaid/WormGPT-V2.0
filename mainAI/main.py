@@ -16,20 +16,17 @@ CYAN = "\033[1;96m"
 WHITE = "\033[1;97m"
 RESET = "\033[0m"
 
-
 # =========================
 # COLORS MARKDOWN
 # =========================
 BOLD = "\033[1m"
 RESET = "\033[0m"
 
-
 # =========================
 # CLEAR SCREEN (CROSS PLATFORM)
 # =========================
 def clear():
     os.system("cls" if os.name == "nt" else "clear")
-
 
 # =========================
 # SPINNER
@@ -42,7 +39,6 @@ def spinner(stop_event, text="Checking"):
         sys.stdout.flush()
         time.sleep(0.08)
     sys.stdout.write("\r" + " " * 40 + "\r")
-
 
 # =========================
 # BANNER
