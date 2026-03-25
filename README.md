@@ -46,25 +46,25 @@ This project uses Git for installation across Windows, Linux, macOS, and Android
 
 ### 🖥 Windows (PowerShell or Windows Terminal)
 
-### 1. Install Git (if not installed)
+### Install Git (if not installed)
 
 Download from:
 https://git-scm.com/
 
-### 2. Clone Repository
+### Clone Repository
 
 ```bash
 git clone https://github.com/jailideaid/WormGPT-V2.0
 cd WormGPT-V2.0
 ```
 
-### 3. Install Dependencies
+### Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Run
+### Run
 
 ```bash
 python main.py
@@ -74,27 +74,27 @@ python main.py
 
 ### 🐧 Linux (Ubuntu/Debian/Kali)
 
-### 1. Install Dependencies
+### Install Dependencies
 
 ```bash
 sudo apt update
 sudo apt install git python3 python3-pip -y
 ```
 
-### 2. Clone
+### Clone
 
 ```bash
 git clone https://github.com/jailideaid/WormGPT-V2.0
 cd WormGPT-V2.0
 ```
 
-### 3. Install Python Dependency
+### Install Python Dependency
 
 ```bash
 pip3 install -r requirements.txt
 ```
 
-### 4. Run
+### Run
 
 ```bash
 python main.py
@@ -104,31 +104,31 @@ python main.py
 
 ### 🍎 macOS
 
-### 1. Install Homebrew (if needed)
+### Install Homebrew (if needed)
 
 Download from:
 https://brew.sh/
 
-### 2. Install Git & Python
+### Install Git & Python
 
 ```bash
 brew install git python
 ```
 
-### 3. Clone
+### Clone
 
 ```bash
 git clone https://github.com/jailideaid/WormGPT-V2.0
 cd WormGPT-V2.0
 ```
 
-### 4. Install Dependency
+### Install Dependency
 
 ```bash
 pip3 install -r requirements.txt
 ```
 
-### 5. Run
+### Run
 
 ```bash
 python3 main.py
@@ -138,11 +138,11 @@ python3 main.py
 
 ### 📱 Android (Termux)
 
-### 1. Install Termux
+### Install Termux
 
 From F-Droid (recommended).
 
-### 2. Setup Environment
+### Setup Environment
 
 ```bash
 pkg update
@@ -150,7 +150,7 @@ pkg install git python -y
 pip install -r requirements.txt
 ```
 
-### 3. Clone & Run
+### Clone & Run
 
 ```bash
 git clone https://github.com/jailideaid/WormGPT-V2.0
