@@ -13,18 +13,9 @@ This project provides a clean terminal-based AI interaction system with:
 
 ## Preview WormGPT CLI V2.0
 <p align="center">
-  <img width="773" height="628" alt="Screenshot 1"
-       src="https://github.com/user-attachments/assets/4fb2dd51-3716-40bd-b090-d48abc5b165b" />
-</p>
-
-<p align="center">
-  <img width="773" height="628" alt="Screenshot 2"
-       src="https://github.com/user-attachments/assets/8e4105f4-ed76-4190-a762-24b9b9a43565" />
-</p>
-
-<p align="center">
-  <img width="773" height="628" alt="Screenshot 3"
-       src="https://github.com/user-attachments/assets/699824dd-6a30-4aa9-b5be-d9e7d5c61414" />
+  <img src="https://github.com/user-attachments/assets/4fb2dd51-3716-40bd-b090-d48abc5b165b" width="773"/>
+  <img src="https://github.com/user-attachments/assets/8e4105f4-ed76-4190-a762-24b9b9a43565" width="773"/>
+  <img src="https://github.com/user-attachments/assets/699824dd-6a30-4aa9-b5be-d9e7d5c61414" width="773"/>
 </p>
 
 ---
